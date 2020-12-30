@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How are you getting high interest rates?",
+    "answer": "We deposit your principal into two decentralized finance (DeFi) services (<a href='https://aave.com/' target='_blank'>AAVE</a> and <a href='https://yearn.finance/' target='_blank'>Yearn Finance</a>). Both use non-custodial borrowing and lending platforms that run on the Ethereum blockchain. This currently generates higher interest rates than your bank. <a href='https://defipulse.com/blog/what-is-defi/' target='_blank'>Learn more here</a>. Please note past interest rates returns does not indicate future returns."
+  },
+  {
+    "question": "Which are the supported coins?",
+    "answer": "We currently support <a href='https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai' target='_blank'>DAI</a> and <a href='https://circle.com/en/usdc' target='_blank'>USDC</a>. Both are stablecoins whose value is pegged to the dollar. If you would like to use a different token <a href='http://discord.gg/eagqesW' target='_blank'>Let us know on discord</a>."
+  },
+  {
+    "question": "Is the annual percentage yield (APY) guaranteed?",
+    "answer": "No, the minimal APY that is indicated is an estimation based on historical data. Past performance is no guarantee of future results. Actual APY will fluctuate based on supply and demand of the underlying assets, as well as how many people complete the game."
+  },
+  {
+    "question": "Which DeFi platforms are you using?",
+    "answer": "We currently support <a href='https://docs.aave.com/faq/' target='_blank'>AAVE</a> and <a href='https://docs.yearn.finance/yearn.finance/yearn'>Yearn.finance</a>. We are researching adding alternative platforms. Let us know if there is one you are looking for. We also use Uniswap to convert your stable coins to ETH if you choose to do so."
+  },
+  {
+    "question": "Is my money safe?",
+  "answer": "As with all DeFi products there is an inherent risk. Although we plug into audited platforms, our smart contracts are not audited. Please do not add more money than you can afford to lose."
+  },
+  {
+    "question": "If I add a portion of ETH to my regular savings, how is the interest calculated?",
+    "answer": "It’s not. Any ETH portion is completely standalone to the rest of the game logic, it is just an option to add a regular contribution (e.g. dollar-cost average into ETH). You can withdraw this at any point without affecting you capability to collect interest."
+  },{
+   "question": "What about gas costs?",
+   "answer" : "We know Ethereum gas costs are high, so we are sponsoring our users transaction fees for their first complete saving game. In the future, we will be using layer 2 solutions to reduce our gas costs."
+  },{
+    "question" : "How do you make money?",
+    "answer" : "Currently we are a free service, however in the future we will likely charge a small transaction fee to fund the project."
+  }
+]

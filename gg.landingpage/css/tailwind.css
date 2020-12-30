@@ -1,0 +1,112 @@
+/* purgecss start ignore */
+@import 'tailwindcss/base';
+/* purgecss end ignore */
+
+@import 'tailwindcss/components';
+
+
+/* Start purging... */
+@import 'tailwindcss/utilities';
+/* Stop purging. */
+
+/* Your own custom utilities */
+
+  
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Heebo:wght@400;700&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+
+html{
+  scroll-behavior: smooth;
+}
+
+/* Write your own custom base styles here */
+
+/* Start purging... */
+/* Stop purging. */
+
+
+.container {
+  @apply mx-auto py-8 max-w-6xl px-4;
+}
+.background{
+    background-image: url(https://preview.cruip.com/frame/images/illustration-section-01.svg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center top;
+    z-index: -2;
+}
+
+.box {
+ @apply pt-12 pb-24 px-6;
+}
+
+@media (max-width: 640px)  {
+	.box {
+		@apply pt-2 pb-4 px-2;
+	}
+}
+
+
+.countdown-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.countdown-item {
+	color: #111;
+	font-size: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+    line-height: 30px;
+	margin: 10px;
+    padding-top: 10px;
+	position: relative;
+	width: 100px;
+	height: 100px;
+}
+
+.countdown-item span {
+	color: #333;
+	font-size: 12px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.countdown-svg {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100px;
+	height: 100px;
+}
+
+a {
+  @apply font-bold text-teal-600 cursor-pointer;
+}
+
+.container {
+  @apply mx-auto py-20 max-w-6xl px-4;
+}
+.background{
+    background-image: url(https://preview.cruip.com/frame/images/illustration-section-01.svg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center top;
+    z-index: -2;
+}
+
+.box {
+ @apply pt-12 pb-24 px-6;
+}
+
+@media (max-width: 640px)  {
+	.box {
+		@apply pt-2 pb-4 px-2;
+	}
+}

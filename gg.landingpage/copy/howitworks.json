@@ -1,0 +1,32 @@
+[
+  {
+    "title": "1. Set your goals",
+    "content": "Customise your savings goal. Choose how much and how long you want to save for, how frequently, in which currency and your risk appetite."
+  },
+  {
+    "title": "2. Get added to a pool",
+    "content": "We match you with savers using the same timeframe. Joining a saving pool together for a fixed length of time."
+  },
+  {
+    "title": "3. Deposit",
+    "content": "Make regular deposits. Watch your savings grow. Whilst saving, you are free to withdraw your principal at any point."
+  },
+  {
+    "title": "4. Save regularly",
+    "content": "However, if you miss a payment you forfeit your chance to claim a slice of the  interest generated."
+  },
+  {
+    "title": "5. Cash out!",
+    "content": "At the end of your pool’s timeframe, we calculate the number of successful regular savers. Interest generated over this time is split between all winners. Everyone else only gets their principal back."
+  },{
+    "title": "6. Higher returns",
+    "content" : "Successful savers enjoy their hard won, higher interest returns. The more people drop out, the greater the returns."
+  },{
+    "title" : "Optionally: add ETH",
+    "content" : "Want to grow some ETH as well as stable tokens? Select this option to convert a percentage of each of your deposits to ETH. This is withdrawable at any point and does not affect your ability to claim interest."
+  }
+
+]
+
+
+

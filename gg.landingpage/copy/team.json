@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Rachel Black",
+    "pic": "https://ca.slack-edge.com/T016DS66R99-U016WQPK6J0-9f1a7a2cf41e-512",
+    "bio": "Rachel is an experienced developer. She has also worked in developer relations for a number of blockchain projects, most recently 3Box. She is passionate about building products and community.",
+    "github": "https://github.com/RachBLondon",
+    "twitter": "https://twitter.com/RachBLondon",
+    "discord": ""
+  },
+  {
+    "name": "Piotr Yordanov",
+    "pic": "https://ca.slack-edge.com/T016DS66R99-U017J0ESE48-b1e6a1890d81-512",
+    "bio": "CFD Index scalper. Swing Trader. Trading indicator/bots developer. Built a few startups for 4 years and now swing trade. Currently interested in DeFi.",
+    "github": "https://github.com/piotryordanov",
+    "twitter": "https://twitter.com/PiotrYordanov",
+    "discord": ""
+  },
+  {
+    "name": "Giel Detienne",
+    "pic": "https://trello-attachments.s3.amazonaws.com/5f2835e2a228ab2bbd2d638b/496x496/98a18f562d1cddff8804a1944b41695c/fbprof.jpg",
+    "bio": " Heavy DeFi user & Financial Architect ⟠ Experienced in DeFi asset-management and yield optimizing. Molecular scientist by training (PhD in Biotechnology).",
+    "github": "https://github.com/Deepcryptodive",
+    "twitter": "https://twitter.com/deepcryptodive",
+    "discord": "https://discordapp.com/users/673967290068500491"
+  },
+  {
+    "name": "Baby Jessi Parker",
+    "pic": "https://trello-attachments.s3.amazonaws.com/5f2835e2a228ab2bbd2d638b/1080x720/25e77af99c0464ce9f3aa65534c02571/Photo_on_07.05.20_at_15.53_%234.jpg",
+    "bio": "UX/UI designer with a background in sales, customer relations, and education. Interested in DeFi and becoming more involved in blockchain.",
+    "github": "",
+    "twitter": "https://twitter.com/BabyJ_Design",
+    "discord": ""
+  }
+]
